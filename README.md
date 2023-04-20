@@ -16,7 +16,7 @@
 <strong>A student whose major is flight vehicle control and information from China. </strong>
 
 </pre> 
-![snake](https://raw.githubusercontent.com/Sajuuk121/Sajuuk121/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Sajuuk121/Sajuuk121/main/assets/github-contribution-grid-snake.svg)
 
 ### ⭐️ &nbsp;Github Star
 
